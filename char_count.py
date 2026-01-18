@@ -13,3 +13,5 @@ for ch in text:
 
 for ch,count in char_count.items():
     print(f"{ch} -> {count}")
+
+print("Hello from branch 1")
